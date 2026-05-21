@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hana-zaydens/hana-zaydens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mixed methods researcher, strategist, and builder working on human-centered AI products. 
 
-Here are some ideas to get you started:
+🔭 I'm currently working on eval and benchmarking frameworks for AI-mediated qualitative research tools
 
-- 🔭 I’m currently working on eval and benchmarking frameworks for AI-mediated qualitative research tools
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Reach out if you'd like to collaborate!
+
+🏄 [hanazaydens.com](https://hanazaydens.com) &nbsp;|&nbsp; 🧑‍🎨 [hana.zaydens@gmail.com](mailto:hana.zaydens@gmail.com) &nbsp;|&nbsp; 🤸 [LinkedIn](https://www.linkedin.com/in/hana-zaydens)
+
+
+
+
